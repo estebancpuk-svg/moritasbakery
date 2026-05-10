@@ -32,42 +32,42 @@ const catalog = [
     id: 'gny',
     name: 'Galletas New York',
     desc: 'Disfruta nuestras irresistibles galletas estilo New York: grandes, suaves por dentro y ligeramente crujientes por fuera. Cada una está generosamente rellena para una explosión de sabor en cada mordida.\nSabores disponibles: cereza, Lucky Charms con relleno de chocolate blanco, mantequilla de maní con chocolate y más.\n✨ Perfectas para darte un gusto dulce o compartir.',
-    image: 'https://images.unsplash.com/photo-1590080875515-8a3a1dc5735e?auto=format&fit=crop&q=80&w=800',
+    image: '/WhatsApp Image 2026-05-10 at 16.56.47.jpeg',
     options: [{ label: 'Unidad', price: 7000 }]
   },
   {
     id: 'gv',
     name: 'Galletas de Vainilla',
     desc: 'Delicadas galletas de vainilla con textura suave y un delicioso relleno de mora que equilibra lo dulce con un toque ácido.\n💜 Ideales para acompañar con café o como snack dulce en cualquier momento.',
-    image: 'https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&q=80&w=800',
+    image: '/WhatsApp Image 2026-05-10 at 16.56.49 (2).jpeg',
     options: [{ label: 'Bolsa x2', price: 6000 }, { label: 'Caja x4', price: 12000 }]
   },
   {
     id: 'alf',
     name: 'Alfajores',
     desc: 'Suaves y delicados alfajores rellenos de cremoso arequipe, que se derriten en la boca. Cada bocado es una mezcla perfecta de dulzura y tradición.\n✨ Un clásico irresistible para los amantes de lo dulce.',
-    image: 'https://images.unsplash.com/photo-1512223625736-224484bc9c43?auto=format&fit=crop&q=80&w=800',
+    image: '/WhatsApp Image 2026-05-10 at 16.56.49 (3).jpeg',
     options: [{ label: 'Bolsa x2', price: 6000 }, { label: 'Caja x4', price: 12000 }]
   },
   {
     id: 'brw',
     name: 'Brownies',
     desc: 'Brownies intensos de chocolate, húmedos y con una textura perfecta. Disponibles en versiones con Milo para un toque único y delicioso.\n🤎 Perfectos para los verdaderos amantes del chocolate.',
-    image: 'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&q=80&w=800',
+    image: '/WhatsApp Image 2026-05-10 at 16.56.48 (2).jpeg',
     options: [{ label: 'Unidad', price: 7000 }]
   },
   {
     id: 'cuch',
     name: 'Cuchareables',
     desc: 'Postres en vaso llenos de capas de sabor y textura. Ideales para disfrutar a cucharadas:\nAlfajor, leche Klim, panderitos, red velvet, cheesecake de frutos rojos y más.\n✨ Cremosos, indulgentes y perfectos para darte un gusto especial.',
-    image: 'https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&q=80&w=800',
+    image: '/WhatsApp Image 2026-05-10 at 16.56.48 (4).jpeg',
     options: [{ label: 'Unidad', price: 15000 }]
   },
   {
     id: 'tcn',
     name: 'Torta Casera / Naranja',
     desc: 'Esponjosa, fresca y con ese sabor casero que reconforta. Nuestra torta de naranja tiene un toque cítrico delicioso que la hace ligera y perfecta para cualquier ocasión.\n☕ Ideal para acompañar con una bebida caliente.',
-    image: 'https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&q=80&w=800',
+    image: '/WhatsApp Image 2026-05-10 at 16.56.49 (1).jpeg',
     options: [{ label: 'Porción', price: 12000 }]
   },
   {
